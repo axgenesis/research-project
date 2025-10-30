@@ -3,7 +3,7 @@
 > **Status**: Ongoing research (2025/2026)  
 > **Title**: “Technical-Operational and Regulatory Aspects of Issuing a Cryptoasset to Represent Rights to Dividends in Seed and Pre-Seed Startups in Brazil”  
 > **Author:** Leonardo Borges    
-> **Advisor:** Prof. Karem Daiane Marcomini, PhD 
+> **Advisor:** Prof. Karem Daiane Marcomini, PhD     
 > **Institution:** Universidade Paulista (UNIP)
 
 ## Why is this topic worth researching?
